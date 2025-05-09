@@ -1,0 +1,4 @@
+python-dotenv==1.0.0
+python-telegram-bot==20.3
+yoomoney==0.1.1
+pyOpenSSL==23.2.0
