@@ -100,8 +100,8 @@ pip install -r requirements.txt
 ├── gpt_bot.py          # Основной файл бота
 ├── instructions.py     # Текст инструкции
 ├── keyboards.py        # Генерация клавиатур
-├── requirements.txt    # Зависимости
-└── test*.py            # Тестовые файлы
+└── requirements.txt    # Зависимости
+
 ```
 
 ---
